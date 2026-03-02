@@ -1,4 +1,4 @@
-# Sagar's Store
+# React Store
 
 A modern, responsive React web application that displays a grid of products with images, prices, ratings, and descriptions. This project is ideal for learning React fundamentals, component-based architecture, and inline styling.
 
